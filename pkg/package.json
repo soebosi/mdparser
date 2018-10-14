@@ -1,0 +1,15 @@
+{
+  "name": "mdparser",
+  "collaborators": [
+    "ebosi38051 <ebosi38051@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "mdparser_bg.wasm",
+    "mdparser.js",
+    "mdparser.d.ts"
+  ],
+  "module": "mdparser.js",
+  "types": "mdparser.d.ts",
+  "sideEffects": "false"
+}
